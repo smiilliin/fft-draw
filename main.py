@@ -101,7 +101,8 @@ while True:
             [1 / N * X * np.exp(1j * 2 * np.pi * k * n / N) for k, X in enumerate(yfft)]
         )
 
-        zsum = 0
+        zsum = zs[0]
+        zs = zs[1:]
 
         for z in zs:
             draw_circle_vector(zsum, z)
