@@ -15,4 +15,8 @@ Run main script
 python main.py
 ```
 
+
+https://github.com/user-attachments/assets/1d09dbfe-4b05-4636-b159-36cf906ed76c
+
+
 [Example of use(Instagram Reels)](https://www.instagram.com/reel/C_VARS0NbVs/?utm_source=ig_web_copy_link)
